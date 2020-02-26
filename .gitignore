@@ -1,0 +1,4 @@
+#Ignoring these Files 
+*.DS_Store
+
+#This has been the .gitignore File.
